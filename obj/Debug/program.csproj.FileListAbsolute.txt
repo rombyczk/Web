@@ -1,1 +1,9 @@
 c:\users\jan\documents\visual studio 2013\Projects\program\bin\Debug\program.exe.config
+c:\users\jan\documents\visual studio 2013\Projects\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2013\Projects\program\obj\Debug\program.Form1.resources
+c:\users\jan\documents\visual studio 2013\Projects\program\obj\Debug\program.Properties.Resources.resources
+c:\users\jan\documents\visual studio 2013\Projects\program\obj\Debug\program.csproj.GenerateResource.Cache
+c:\users\jan\documents\visual studio 2013\Projects\program\bin\Debug\program.exe
+c:\users\jan\documents\visual studio 2013\Projects\program\bin\Debug\program.pdb
+c:\users\jan\documents\visual studio 2013\Projects\program\obj\Debug\program.exe
+c:\users\jan\documents\visual studio 2013\Projects\program\obj\Debug\program.pdb
